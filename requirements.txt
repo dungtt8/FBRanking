@@ -2,5 +2,6 @@ selenium
 flask
 pygal
 pandas
-chromedriver_autoinstaller
 gunicorn
+requests
+wget
